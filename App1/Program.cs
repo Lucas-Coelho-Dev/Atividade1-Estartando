@@ -14,6 +14,7 @@ string NomeCompleto()
 
 //Programa 2 
 var idade = idadePessoa();
+Console.WriteLine(idade);
 
 short idadePessoa()
 {
