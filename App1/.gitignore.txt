@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+
+# Arquivos de usuário
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.cache
+
+# Pacotes NuGet
+packages/
+
+# Arquivos de sistema
+Thumbs.db
+Desktop.ini
